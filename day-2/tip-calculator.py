@@ -13,5 +13,5 @@ total = bill_total_float+tip_total #Bill+Tip
 people = input("How many people are splitting the bill? ")
 people_int = int(people)
 split = round(total/people_int,2)
-
+split = "{:.2f}".format(split)
 print(f"Each person should pay: ${split}")
