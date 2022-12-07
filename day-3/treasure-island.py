@@ -24,21 +24,18 @@ print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.\n") 
 
 direction = input("You find yourself at a crosspaths. Do you want to go left, where you see something sparkling? Or would you like to go right towards the sea? ").lower()
-ldirection = direction.lower()
 
-if ldirection == "left":
-  ride = input('You come across a man named Rick that is setting up his shoddily-built raft. "Need a *burp* ride?" Y or N. ')
-  lride = ride.lower()
-  if lride == "y":
+if direction == "left":
+  ride = input('You come across a man named Rick that is setting up his shoddily-built raft. "Need a *burp* ride?" Y or N. ').lower()
+  if ride == "y":
     print("You accept this man's kind offer. You two get to chatting it up, when a thought comes across your mind, 'Wow, what a cool guy. Maybe I'll ask him to accompany me on my quest for this trea--'. Your thought is cut short when a Cronenbergian monster comes out of the water and eats you both. You died. Game Over.")
   else:
-    door = input('You kindly decline his offer. He responds, "ipso fuckoffo" as he sails away, his middle finger high up in the air. You start walking off in the other direction, where you come across a strange house. You walk in to find three coloured doors. One is red, one is blue, and the other is green. Which door do you choose to open? ')
-    ldoor = door.lower()
-    if ldoor == "red":
+    door = input('You kindly decline his offer. He responds, "ipso fuckoffo" as he sails away, his middle finger high up in the air. You start walking off in the other direction, where you come across a strange house. You walk in to find three coloured doors. One is red, one is blue, and the other is green. Which door do you choose to open? ').lower()
+    if door == "red":
       print("You got spooked by Scary Terry and died. Game Over.")
-    elif ldoor == "blue":
+    elif door == "blue":
       print("You tripped into a green portal, got shredded, and died. Game Over.")
-    elif ldoor == "green": 
+    elif door == "green": 
       print('Congrats! You found the treasure. Its a Mr. Meeseeks box. You push the button and out comes a Meeseeks that says, "IM MR. MEESEEKS LOOK AT ME!" ')
     else:
       print("You vaporize where you stand. You died. Game Over.")
