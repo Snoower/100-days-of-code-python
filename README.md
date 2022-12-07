@@ -6,4 +6,6 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 2:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-2) Understanding Data Types and How to Manipulate Strings
 
+[Day 3:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-3) Control Flow and Logical Operators
+
 https://replit.com/@Snoower
