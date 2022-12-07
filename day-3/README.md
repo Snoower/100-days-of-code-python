@@ -6,7 +6,9 @@
 - Multiple If Statements in Succession
 - Logical Operators
 
-**Treasure Island**:
+**Project**:
+
+Treasure Island:
 
 ![image](https://user-images.githubusercontent.com/56703794/206052706-fa9eedde-2b69-470f-968c-e9662d5e9877.png)
 
