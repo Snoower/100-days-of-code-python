@@ -10,7 +10,7 @@
 
 Rock Paper Scissors
 
-![image](https://user-images.githubusercontent.com/56703794/206368108-e85175da-eb13-4ebf-9329-b75cb0fc94cf.png)
+![image](https://user-images.githubusercontent.com/56703794/206368388-f7e19296-7790-43c4-9d6b-01ad90415b31.png)
 
 ![image](https://user-images.githubusercontent.com/56703794/206368056-c90e3def-3442-453c-bd8d-26d4401c4c66.png)
 
