@@ -44,7 +44,7 @@ computer_choice = choices[random_choice]
 if person_choice <= 2:
     print(f"Computer chose:\n {computer_choice}")
 else:
-    print("I SAID 0, 1, 2! (ノ°Д°）ノ︵ ")
+    print("I SAID 0, 1, OR 2! (ノ°Д°）ノ︵ ")
 
 if computer_choice == choices[0] and person_choice == 0:
     print("It's a draw.")
