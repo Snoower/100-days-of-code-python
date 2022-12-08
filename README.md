@@ -8,4 +8,6 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 3:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-3) Control Flow and Logical Operators
 
+[Day 4:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-4) Randomisation and Python Lists
+
 https://replit.com/@Snoower
