@@ -10,4 +10,6 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 4:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-4) Randomisation and Python Lists
 
+[Day 5:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-5) Python Loops
+
 https://replit.com/@Snoower
