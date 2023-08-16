@@ -12,4 +12,6 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 5:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-5) Python Loops
 
+[Day 6:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-6) Python Functions & Karel
+
 https://replit.com/@Snoower
