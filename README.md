@@ -14,4 +14,6 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 6:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-6) Python Functions & Karel
 
+[Day 7:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-7) Hangman
+
 https://replit.com/@Snoower
