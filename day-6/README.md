@@ -1,13 +1,18 @@
-# Day 6 - Python Functions & Karel
+# Day 6 - Hangman
 
 **Concepts**:
-- Defining and Calling Python Functions
-- Indentation in Python
-- While Loops
+- How to break a Complex Problem down into a Flow Chart
+- How to Check the User's Answer
+- How to Replace the Blanks
+- How to Check if the Player Won
+- How to Keep Track of the Player's Lives
+- How to Add ASCII Art and Improve the UI
 
 
 **Project**:
 
-[Reeborg's World Maze](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+Hangman
 
-![261062645-bf29476f-2746-4ad8-bd17-4c5ece0b3b14](https://github.com/Snoower/100-days-of-code-python/assets/56703794/c2ecb11f-f976-4fdd-97f3-eaa0109104e4)
+![image](https://github.com/Snoower/100-days-of-code-python/assets/56703794/c0b2c83f-227d-456b-8a5b-109a452978ec)
+
+https://replit.com/@Snoower/Day-7-Hangman-5-Start
