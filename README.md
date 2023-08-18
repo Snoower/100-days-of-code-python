@@ -16,4 +16,6 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 7:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-7) Hangman
 
+[Day 8:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-8) Function Parameters & Caesar Cipher
+
 https://replit.com/@Snoower
