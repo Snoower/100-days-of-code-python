@@ -18,4 +18,6 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 8:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-8) Function Parameters & Caesar Cipher
 
+[Day 9:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-9) Dictionaries, Nesting and the Secret Auction
+
 https://replit.com/@Snoower
