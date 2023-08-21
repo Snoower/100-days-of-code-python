@@ -1,7 +1,7 @@
 # Day 11 - The Blackjack Capstone Project
 
 **Concepts**:
-- Culmination of the last 11 days incorporated into this Blackjack project
+- Culmination of the last 11 days incorporated into this project
 
 **Project**:
 
