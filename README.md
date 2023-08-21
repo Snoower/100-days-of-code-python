@@ -22,4 +22,6 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 10:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-10) Functions with Outputs
 
+[Day 11:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-11) The Blackjack Capstone Project
+
 https://replit.com/@Snoower
