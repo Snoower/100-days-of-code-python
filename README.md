@@ -24,4 +24,8 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 11:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-11) The Blackjack Capstone Project
 
+[Day 12:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-12) Scope & Number Guessing Game
+
+[Day 13:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-13) How to Find and Fix Errors in your Code
+
 https://replit.com/@Snoower
