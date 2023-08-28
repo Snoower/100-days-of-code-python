@@ -28,4 +28,6 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 13:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-13) How to Find and Fix Errors in your Code
 
+[Day 14:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-14) Higher Lower Game
+
 https://replit.com/@Snoower
