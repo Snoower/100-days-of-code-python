@@ -30,4 +30,8 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 14:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-014) Higher Lower Game Project
 
+[Day 15:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-015) Local Development Environment Setup & the Coffee Machine
+
+[Day 16:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-016) Object Oriented Programming (OOP)
+
 https://replit.com/@Snoower
