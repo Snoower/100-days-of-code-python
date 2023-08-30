@@ -2,6 +2,8 @@
 
 Source for projects: https://www.udemy.com/course/100-days-of-code
 
+# Beginner
+
 [Day 1:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-001) Working with Variables in Python to Manage Data
 
 [Day 2:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-002) Understanding Data Types and How to Manipulate Strings
@@ -29,6 +31,8 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 [Day 13:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-013) How to Find and Fix Errors in your Code
 
 [Day 14:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-014) Higher Lower Game Project
+
+# Intermediate
 
 [Day 15:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-015) Local Development Environment Setup & the Coffee Machine
 
