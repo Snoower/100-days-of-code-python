@@ -38,4 +38,6 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 16:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-016) Object Oriented Programming (OOP)
 
+[Day 17:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-017) The Quiz Project & the Benefits of OOP
+
 https://replit.com/@Snoower
