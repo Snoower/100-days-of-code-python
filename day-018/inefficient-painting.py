@@ -30,7 +30,6 @@ def reposition_honey(y):
         honey.goto(-176.77669529663686, y)
         return
 
-
 reposition_honey(-176.7766952966369)
 row_of_dots()
 reposition_honey(-126.7766952966369)
