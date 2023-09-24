@@ -42,4 +42,6 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 18:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-018) Turtle & the Graphical User Interface (GUI)
 
+[Day 19:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-019) Instances, State and Higher Order Functions
+
 https://replit.com/@Snoower
