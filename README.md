@@ -44,4 +44,8 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 19:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-019) Instances, State and Higher Order Functions
 
+[Day 20:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-020) Build the Snake Game Part 1: Animation & Coordinates
+
+[Day 21:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-021) Build the Snake Game Part 2: Inheritance & List Slicing
+
 https://replit.com/@Snoower
