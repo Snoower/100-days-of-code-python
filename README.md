@@ -48,4 +48,6 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 21:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-021) Build the Snake Game Part 2: Inheritance & List Slicing
 
+[Day 22:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-022) Build Pong: The Famous Arcade Game
+
 https://replit.com/@Snoower
