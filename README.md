@@ -50,4 +50,6 @@ Source for projects: https://www.udemy.com/course/100-days-of-code
 
 [Day 22:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-022) Build Pong: The Famous Arcade Game
 
+[Day 23:](https://github.com/Snoower/100-days-of-code-python/tree/main/day-023) The Turtle Crossing Capstone Project
+
 https://replit.com/@Snoower
