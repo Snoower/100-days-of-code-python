@@ -9,6 +9,7 @@
 **Project**:
 
 High Score Addition to the Snake Game (from Day 21)
+
 ![image](https://github.com/Snoower/100-days-of-code-python/assets/56703794/3341b384-0557-4efa-a596-b58162e32ee1)
 
 Mail Merge Challenge
